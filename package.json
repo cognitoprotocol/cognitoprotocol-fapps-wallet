@@ -1,11 +1,11 @@
 {
-  "name": "Mist",
+  "name": "Cognito Protocol ƒapps Wallet",
   "version": "0.9.3",
   "license": "GPL-3.0",
   "author": "Ethereum Mist Team <mist@ethereum.org>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereum/mist.git"
+    "url": "https://github.com/cognitoprotocol/cognitoprotocol-fapps-wallet"
   },
   "scripts": {
     "postinstall": "cd interface && yarn",
